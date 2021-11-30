@@ -1,0 +1,1 @@
+first screen 4k max-2560px min-1440px

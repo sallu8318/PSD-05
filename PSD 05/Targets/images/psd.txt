@@ -1,0 +1,577 @@
+index
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles.css">
+    <title>PSD 05</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="nav-logo">
+                <img src="Images/header-logo.png">
+            </div>
+            <div class="nav-h">
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Service</a>
+                <a href="#">Our Project</a>
+                <a href="#">Contact Us</a>
+            </div>
+        </nav>
+        <div>
+            <h1 class="logo-heading">Making Your Ideas Happen</h1>
+        </div>
+        <button onclick="myFunction()" class="g-q-btn">Get Quote</button>
+        <button onclick="myFunction()" class="o-p-btn">Our Project</button>
+    </header>
+    <section>
+        <div class="m-our-service">
+            <div class="our-service">
+                <h1>OUR SERVICE</h1>
+            </div>
+            <div class="m-flex-01">
+                <div class="flex-01">
+                    <div class="flex-01-1-img">
+                        <img src="Images/web-development.png">
+                    </div>
+                    <div class="flex-01-1-hp">
+                        <h2>Web-Development</h2>
+                        <p>
+                            A web developer has the potential to grow in so many sectors. 
+                            From a range of experience to acquiring varied skills, 
+                            the pay scale also starts to differ
+                        </p>
+                    </div>
+                </div>
+                <div class="flex-01">
+                    <div class="flex-01-2-img">
+                        <img src="Images/app-development.png">
+                    </div>
+                    <div class="flex-01-2-hp">
+                        <h2>App-Development</h2>
+                        <p>
+                            A web developer has the potential to grow in so many sectors. 
+                            From a range of experience to acquiring varied skills, 
+                            the pay scale also starts to differ
+                        </p>
+                    </div>
+                </div>
+                <div class="flex-01">
+                    <div class="flex-01-3-img">
+                        <img src="Images/seo.png">
+                    </div>
+                    <div class="flex-01-3-hp">
+                        <h2>SEO</h2>
+                        <p>
+                            A web developer has the potential to grow in so many sectors. 
+                            From a range of experience to acquiring varied skills, 
+                            the pay scale also starts to differ
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="m-flex-01">
+                <div class="flex-01">
+                    <div class="flex-01-4-img">
+                        <img src="Images/graphic-designing.png">
+                    </div>
+                    <div class="flex-01-4-hp">
+                        <h2>Graphic-Designing</h2>
+                        <p>
+                            A web developer has the potential to grow in so many sectors. 
+                            From a range of experience to acquiring varied skills, 
+                            the pay scale also starts to differ
+                        </p>
+                    </div>
+                </div>
+                <div class="flex-01">
+                    <div class="flex-01-5-img">
+                        <img src="Images/web-designing.png">
+                    </div>
+                    <div class="flex-01-5-hp">
+                        <h2>Web-designing</h2>
+                        <p>
+                            A web developer has the potential to grow in so many sectors. 
+                            From a range of experience to acquiring varied skills, 
+                            the pay scale also starts to differ
+                        </p>
+                    </div>
+                </div>
+                <div class="flex-01">
+                    <div class="flex-01-6-img">
+                        <img src="Images/digital-marketing.png">
+                    </div>
+                    <div class="flex-01-6-hp">
+                        <h2>Digital-Marketing</h2>
+                        <p>
+                            A web developer has the potential to grow in so many sectors. 
+                            From a range of experience to acquiring varied skills, 
+                            the pay scale also starts to differ
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="m-Who-Are-You">
+            <div class="who-are-you">
+                <h1>Who Are You</h1>
+            </div>
+            <div class="m-sec-section">
+                <div class="sec-section-hp">
+                    <h1>We do things right.</h1><br>
+                    <p>A web developer has the potential to grow in so many sectors. 
+                        From a range of experience to acquiring varied skills, 
+                        the pay scale also starts to differ
+                    </p><br>
+                    <button onclick="myFunction()" class="sec-section-btn">Read more</button>
+                </div>
+                <div class="sec-section-img">
+                    <img src="Images/whoarewe.png" alt="A Beautyfull sceen">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="m-Why-Choose-Us">
+            <div class="Why-Choose-Us">
+                <h1>Why Choose Us</h1>
+            </div>
+            <div class="m-flex-02">
+                <div class="flex-02-1">
+                    <img src="Images/easy-secure.png" alt="picture"><br><br>
+                    <h1>Easy & Secure</h1>
+                </div>
+                <div class="flex-02-1">
+                    <img src="Images/responsive-design.png" alt="picture"><br><br>
+                    <h1>Responsive Desine</h1>
+                </div>
+                <div class="flex-02-1">
+                    <img src="Images/satisfied-customer.png" alt="picture"><br><br>
+                    <h1>Satisfied customer</h1>
+                </div>
+            </div>
+            <div class="m-flex-02">
+                <div class="flex-02-1">
+                    <img src="Images/dedicated-team.png" alt="picture"><br><br>
+                    <h1>Dedicated Team</h1>
+                </div>
+                <div class="flex-02-1">
+                    <img src="Images/loyalty.png" alt="picture"><br><br>
+                    <h1>Loyalty</h1>
+                </div>
+                <div class="flex-02-1">
+                    <img src="Images/quality.png" alt="picture"><br><br>
+                    <h1>Quality</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="m-Our-Projects">
+            <div class="Our-Projects">
+                <h1>Our Projects</h1>
+            </div>
+            <div class="m-flex-03">
+                <div class="flex-03-1">
+                    <img src="Images/bg-dark.png" alt="black">
+                </div>
+                <div class="flex-03-1">
+                    <img src="Images/bg-dark.png" alt="black">
+                </div>
+                <div class="flex-03-1">
+                    <img src="Images/bg-dark.png" alt="black">
+                </div>
+            </div>
+            <div class="m-flex-03">
+                <div class="flex-03-1">
+                    <img src="Images/bg-dark.png" alt="black">
+                </div>
+                <div class="flex-03-1">
+                    <img src="Images/bg-dark.png" alt="black">
+                </div>
+                <div class="flex-03-1">
+                    <img src="Images/bg-dark.png" alt="black">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="m-what-our-clinet-say">
+            <div class="what-our-clinet-say">
+                <h1>What Our Client Say</h1>
+            </div>
+            <div class="m-flex-04">
+                <div class="flex-04">
+                    <h3>A hacker is an individual who uses computer, networking or other 
+                        skills to overcome a technical problem. A hacker is an individual who uses computer, networking or other 
+                        skills to overcome a technical problem.
+                    </h3>
+                    <a href="#">MR. Sallu</a>
+                    <img src="Images/sallu.jfif" alt="A beautyfull pic for sallu">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="m-img">
+            <div class="img-01">
+                <img src="Images/silver.png">
+            </div>
+            <div class="img-01">
+                <img src="Images/silver.png">
+            </div>
+            <div class="img-01">
+                <img src="Images/silver.png">
+            </div>
+            <div class="img-01">
+                <img src="Images/silver.png">
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="color-line">
+            <div class="color-line-h1">
+                <h1>Loerm Ipsum Dolor site amit is a dummy text</h1>
+            </div>
+            <div class="color-line-btn">
+                <button onclick="myFunction()">Order Know</button>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="m-footer-flex">
+            <div class="footer-flex-01">
+                <div class="footer-logo">
+                    <img src="images/footer-logo.png" alt="footer logo"><br><br>
+                </div>
+                <div class="footer-h3">
+                    <h4>Loerm Ipsum Dolor site amit is a dummy text.
+                        Loerm Ipsum Dolor site amit is a dummy text.
+                    </h4>
+                </div>
+            </div>
+            <div class="footer-flex-01">
+                <h1>Navigation</h1><br>
+                <a href="#">Home</a><br><br>
+                <a href="#">About</a><br><br>
+                <a href="#">Service</a><br><br>
+                <a href="#">Our Projects</a><br><br>
+                <a href="#">Countact Us</a><br><br>
+            </div>
+            <div class="footer-flex-01">
+                <h1>Navigation</h1><br>
+                <a href="#">Home</a><br><br>
+                <a href="#">About</a><br><br>
+                <a href="#">Service</a><br><br>
+                <a href="#">Our Projects</a><br><br>
+                <a href="#">Countact Us</a><br><br>
+            </div>
+            <div class="footer-flex-01">
+                <h1>We Are Social</h1><br>
+                <a href="#">Facebook</a><br><br>
+                <a href="#">Instagram</a><br><br>
+                <a href="#">Twitter</a><br><br>
+            </div>
+        </div>
+    </footer>
+    <div class="copyright-footer">
+        <h3>All Right Reserved &copy; 2020.Tearms & Condition Privacy Policy</h3>
+    </div>
+</body>
+</html>           
+
+style
+
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 480px;
+    background-image: url(Images/banner.png);
+}
+nav{
+    width: 100%;
+    height: 127px;
+}
+.nav-logo{
+    width: 18%;
+    height: 67px;
+    float: left;
+    padding: 30px 40px;;
+}
+.nav-h{
+    width: 70%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    padding: 20px 30px;
+    margin-top: 37px;
+    font-size: 22px;
+}
+.nav-h a{
+    padding-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+.logo-heading{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 95px;
+    border-top: 2px solid gray;
+}
+.g-q-btn{
+    font-size: 25px;
+    padding: 7px 15px;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    margin-left: 472px;
+    float: left;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.o-p-btn{
+    font-size: 25px;
+    padding: 7px 15px;
+    border: 2px solid #0a9494c7;
+    margin-left: 22px;
+    float: left;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.m-our-service{
+    width: 100%;
+    height: 682px;
+}
+.our-service{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.m-flex-01{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+.flex-01{
+    width: 15%;
+    height: 230px;
+    background-color: rgb(206 191 170 / 44%);
+    padding: 20px;
+    margin: 15px;
+}
+.m-Who-Are-You{
+    width: 100%;
+    height: 510px;
+}
+.who-are-you{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.m-sec-section{
+    width: 100%;
+    height: 430px;
+}
+.sec-section-hp{
+    width: 60%;
+    height: 230px;
+    padding: 100px 70px;
+    background-color: #0a9494c7;
+    color: whitesmoke;
+    float: left;
+    position: absolute;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.sec-section-hp h1{
+    width: 30%;
+    font-size: 40px;
+}
+.sec-section-hp p{
+    width: 35%;
+}
+.sec-section-btn{
+    padding: 6px 20px;
+    background-color: #0a9494c7;
+    color: whitesmoke;
+    border-radius: 4px;
+    border-color: whitesmoke;
+}
+.sec-section-img {
+    width: 50%;
+    height: 294px;
+    float: right;
+    position: relative;
+    margin-top: 65px;
+}
+.m-Why-Choose-Us{
+    width: 100%;
+    height: 556px;
+}
+.Why-Choose-Us{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.m-flex-02{
+    width: 100%;
+    height: 237px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+.flex-02-1{
+    width: 15%;
+    height: 168px;
+    background-color: rgb(206 191 170 / 44%);
+    padding: 20px;
+    margin: 15px;
+}
+.m-Our-Projects{
+    width: 100%;
+    height: 570px;
+}
+.Our-Projects{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.m-flex-03{
+    width: 100%;
+    height: 237px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* text-align: center; */
+}
+.flex-03-1{
+    width: 15%;
+    height: 168px;
+    padding: 20px;
+    margin: 15px;
+}
+.m-what-our-clinet-say{
+    width: 100%;
+    height: 404px;
+}
+.what-our-clinet-say{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.m-flex-04{
+    width: 100%;
+    height: 324px;
+    background-color: lightgrey;
+}
+.flex-04{
+    width: 30%;
+    height: 248px;
+    text-align: center;
+    border: 3px solid #0a9494c7;
+    margin-left: 392px;
+    padding: 60px 60px 10px 60px;
+}
+.flex-04 a{
+    width: 100%;
+    text-decoration: none;
+    color: #257b7b;
+    float: left;
+}
+.flex-04 img{
+    width: 25%;
+    height: 100px;
+    border-radius: 50px;
+}
+.m-img{
+    width: 100%;
+    height: 81px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+.img-01{
+    width: 15%;
+    height: 81px;
+    float: left;
+    padding-left: 110px;
+    /* border-radius: 4px; */
+}
+.color-line{
+    width: 100%;
+    height: 65px;
+    background-color: #0a9494c7;
+    color: whitesmoke;
+    margin-top: 30px;
+}
+.color-line-h1{
+    width: 60%;
+    height: 27px;
+    padding-left: 150px;
+    padding-top: 18px;
+    float: left;
+}
+.color-line-btn{
+    width: 25%;
+    height: 20px;
+    float: left;
+    padding-top: 20px;
+}
+.color-line-btn button{
+    padding: 4px 20px;
+    border-radius: 5px;
+    background-color: #0a9494c7;
+    color: whitesmoke;
+    border-color: whitesmoke;
+}
+.m-footer-flex{
+    width: 100%;
+    height: 313px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-flex-01{
+    width: 100%;
+    height: 235px;
+    margin: 45px 60px;
+}
+.footer-flex-01 a{
+    text-decoration: none;
+    color: black;
+}
+.copyright-footer{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: #0a9494c7;
+    color: whitesmoke;
+    padding-top: 16px;
+} 
